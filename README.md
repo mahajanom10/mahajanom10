@@ -6,7 +6,7 @@
 ---
 
 ### 🧰 Tools I Work With:
-- **Languages**: Python, SQL
+- **Languages & skills **: Python, SQL, Machine Learning, Deep Learning 
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization**: Power BI, Excel
 - **Automation**: APIs, Web Scraping, Google Sheets, Gmail
