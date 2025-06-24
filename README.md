@@ -1,34 +1,36 @@
-## # 👋 Hi, I’m Om Mahajan 
+## 👋 Hi, I’m Om Mahajan  
 
-🎯 I’m a freelance data analyst and a student at IIT Madras (BSc Data Science & Applications).  
-📊 I use data to solve real-world problems and love turning raw numbers into clear insights.
-
----
-
-### 🧰 Tools I Work With:
-- **Languages & skills **: Python, SQL, Machine Learning, Deep Learning 
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization**: Power BI, Excel
-- **Automation**: APIs, Web Scraping, Google Sheets, Gmail
+🎯 A freelance Data Analyst | Student at **IIT Madras – BSc in Data Science & Applications**  
+📊 Passionate about turning messy data into meaningful business insights.  
+🧠 Obsessed with solving real-world problems through data, storytelling, and automation.
 
 ---
 
-🌱 **Currently Learning:** Machine Learning, Freelancing Strategies  
-📬 **Let’s connect:**  
-[LinkedIn](www.linkedin.com/in/om-mahajan-0aaa40352) | [Instagram – DataSynapse]
+### 🛠️ Tools & Technologies I Work With
 
+**Languages & Concepts**  
+🔹 Python | SQL | Machine Learning | Deep Learning  
 
-<!--
-**mahajanom10/mahajanom10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Libraries**  
+📚 Pandas | NumPy | Matplotlib | Seaborn  
 
-Here are some ideas to get you started:
+**Visualization & BI**  
+📊 Power BI | Microsoft Excel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Automation & Integration**  
+⚙️ APIs | Web Scraping | Google Sheets | Gmail Automation  
+
+---
+
+### 🚀 Currently Working On:
+- Real-time dashboards with API data  
+- Building my freelancing portfolio  
+- Applying machine learning to business problems  
+
+---
+
+### 🌐 Let’s Connect & Collaborate!
+📩 LinkedIn: [Om Mahajan](https://www.linkedin.com/in/om-mahajan-0aaa40352)  
+📸 Instagram: [DataSynapse](https://www.instagram.com/data.synapse/)  
+
+<!-- GitHub stats or portfolio links can go below if needed -->
