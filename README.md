@@ -107,7 +107,7 @@ I am actively building **industry-level projects in Data Science, Machine Learni
 
 ## 🤝 Let's Connect
 
-📩 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN  
+📩 **LinkedIn:** www.linkedin.com/in/om-mahajan1411  
 💼 **Open to:** Data Analyst | Data Scientist | AI/ML Engineer Opportunities  
 
 ---
